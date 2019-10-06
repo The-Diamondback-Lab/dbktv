@@ -1,0 +1,35 @@
+{
+  "title": "Test Deck",
+  "slides": [
+    {
+      "Slide": {
+        "preview": "https://dbktv.netlify.com/api/content/slides/news/news-you-ve-heard-of-hot-girl-summer-but-have-you-heard-about-the-girl-who-started-it.json",
+        "text": "{   \"duration\": 15000,   \"title\": \"You’ve heard of hot girl summer — but have you heard about the girl who started it?\",   \"href\": \"https://dbknews.com/2019/07/16/hot-girl-summer-megan-thee-stallion-mixtape-rap-music/\",   \"author\": \"The Diamondback\",   \"image\": {     \"src\": \"https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/07/Screen-Shot-2019-07-16-at-8.49.45-PM-e1563324747898.png\",     \"alt\": \"Megan Thee Stallion has successfully branded Summer 2019 a hot girl summer (Photo via YouTube).\"   },   \"body\": \"Now you might ask: What is a hot girl summer? You may have seen several people caption their beach pictures with “hot girl summer” and some sort of emoji with its tongue out.\\n\\nBut before you can understand what a hot girl summer is, you must know the original hot girl herself: Megan Thee Stallion.\\n\\nMegan Thee Stallion is one of the biggest rappers at the moment — and on an amazingly swift come-up at that. You might have seen her recently on Jimmy Kimmel Live! performing her smash hit “Big Ole Freak” and the track “Realer” from her latest mixtape Fever. Her effortless moves and simple, yet stunning, costume are indicators of her swagger and showmanship.\\n\\nI won’t delve into a full-on review of Fever, but I’ll just say that there’s not a bad track on it. If you’re especially hoping to channel your inner hot girl, try “Simon Says” or “Shake That” to get the room dancing.\" }"
+      }
+    },
+    {
+      "Slide": {
+        "preview": "https://dbktv.netlify.com/api/content/slides/multimedia/multimedia-testudo-excites-an-arena-of-fans-before-maryland-s-76-71-loss-to-no-4-virginia-at-xfinity-center-on-nov-28-2018.json",
+        "text": "{   \"duration\": 15000,   \"title\": \"Testudo excites an arena of fans before Maryland’s 76-71 loss to No. 4 Virginia at Xfinity Center on Nov. 28, 2018\",   \"category\": \"sports\",   \"credit\": \"The Diamondback\",   \"media\": {     \"src\": \"https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/IMG_0497-copy-e1562021153539.jpg\",     \"video\": false   },   \"related\": {     \"text\": \"Looking back at Maryland’s best sports moments since joining the Big Ten five years ago\",     \"href\": \"https://dbknews.com/2019/07/01/maryland-sports-best-moments-since-joining-big-ten/\"   } }"
+      }
+    },
+    {
+      "Slide": {
+        "preview": "https://dbktv.netlify.com/api/content/slides/group/group-sexually-fluid-cast-of-mtv-s-are-you-the-one-shows-surprisingly-strong-representation.json",
+        "text": "{   \"duration\": 15000,   \"title\": \"Sexually fluid cast of MTV’s ‘Are You The One?’ shows surprisingly strong representation\",   \"ad\": \"300x600_DBK_TV\",   \"article1\": {     \"headline\": {       \"text\": \"Sexually fluid cast of MTV’s ‘Are You The One?’ shows surprisingly strong representation\",       \"href\": \"https://dbknews.com/2019/07/03/are-you-the-one-sexually-fluid-cast-mtv-dating-show/\"     },     \"author\": \"Daisy Grant\",     \"category\": \"tv\",     \"blurb\": \"If you’ve ever wondered what the love child of a reality dating show and a logic puzzle would be, look no further than MTV’s _Are You The One_? And this year, the puzzle is getting even harder.\"   },   \"article2\": {     \"headline\": {       \"text\": \"UMD students will lose some study space in Hornbake Library this fall\",       \"href\": \"https://dbknews.com/2019/07/03/umd-hornbake-library-ischool-lose-study-space-students-remodel/\"     },     \"author\": \"Christine Condon\",     \"category\": \"campus\",     \"blurb\": \"The University of Maryland’s Hornbake Library is planned to lose student study space this fall.\"   } }"
+      }
+    },
+    {
+      "Slide": {
+        "preview": "https://dbktv.netlify.com/api/content/slides/news/news-sean-urbanski-s-murder-trial-has-been-delayed-for-a-fourth-time.json",
+        "text": "{   \"duration\": 15000,   \"title\": \"Sean Urbanski’s murder trial has been delayed for a fourth time\",   \"href\": \"https://dbknews.com/2019/07/11/umd-sean-urbanski-trial-delayed-richard-collins-fourth/\",   \"author\": \"Jillian Atelsek\",   \"image\": {     \"src\": \"https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/04/LRHK2IR6HMI6PMU76QH7Z3JN3M-1.jpg\",     \"alt\": \"Sean Urbanski, the former University of Maryland student charged with murder and a hate crime in the fatal stabbing of Richard Collins, has had his trial postponed four times. (Courtesy of the University of Maryland Police Department)\"   },   \"body\": \"Less than two weeks before it was scheduled to begin, the trial for the former University of Maryland student charged with murder and a hate crime in the death of 2nd. Lt. Richard Collins has been delayed for a fourth time.\\n\\nJudge Lawrence Hill granted Sean Urbanski’s lawyers’ motion for more time Thursday, Prince George’s County State’s Attorney’s Office spokesperson Denise Roberts told The Diamondback. The trial will now begin Dec. 9, she said.\\n\\nThe defense claimed they needed more time for an expert to sort through evidence from Urbanski’s cell phone, Roberts said. Last month, Hill ruled that evidence — which included racist memes — was admissible in court, despite Urbanski’s lawyers’ efforts to bar it.\" }"
+      }
+    },
+    {
+      "Slide": {
+        "preview": "https://dbktv.netlify.com/api/content/slides/multimedia/multimedia-hear-ye-ghouls-and-goblins-halloween-is-upon-us-let-s-get-spooky.json",
+        "text": "{   \"duration\": 41000,   \"title\": \"Hear ye ghouls and goblins, Halloween is upon us. Let’s get spooky.\",   \"category\": \"special projects\",   \"credit\": \"The Diamondback\",   \"media\": {     \"src\": \"https://d3gx1wgrn4cpnk.cloudfront.net/uploads/2019/08/monster-smashed.mp4\",     \"video\": true   },   \"related\": {     \"text\": \"https://dbknews.com/2019/08/27/a-year-in-review-remembering-the-2018-2019-school-year-at-umd/\",     \"href\": \"A Year in Review: Remembering the 2018-19 school year at UMD\"   } }"
+      }
+    }
+  ]
+}
