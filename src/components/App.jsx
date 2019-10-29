@@ -11,6 +11,8 @@ import { Logo } from './molecules'
 import { Deck, DeckNavigation, Footer, Header, Ticker } from './organisms'
 import { Error, Loading } from './screens'
 
+import { feathers } from '../utils/error.util'
+
 /**
  * Class representing the web application.
  *
@@ -204,8 +206,7 @@ export default class App extends Component {
     if (feathers_errors.includes(name)) return error
 
     // Return transformed error
-    const { utils } = this.props
-    return utils.error.feathers(error, { data: { errors: { origin: name } } })
+    return feathers(error, { data: { errors: { origin: name } } })
   }
 
   /**
