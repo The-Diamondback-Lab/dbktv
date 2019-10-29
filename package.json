@@ -5,7 +5,7 @@
   "author": "The Diamondback Lab",
   "scripts": {
     "preinstall": "rm -rf node_modules && rm -rf build/ && rm -rf lambda/",
-    "prestart:app": "NODE_ENV=development",
+    "prestart:app": "NODE_ENV=development cp .env.development .env",
     "start:app": "react-scripts start",
     "prestart:lambda": "npm run prestart:app",
     "start:lambda": "netlify-lambda serve src/lambda",
