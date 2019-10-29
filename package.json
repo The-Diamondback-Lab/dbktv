@@ -11,7 +11,7 @@
     "start:lambda": "netlify-lambda serve src/lambda",
     "start": "run-p start:**",
     "lint": "eslint ./src/*.js ./src/**/*.js ./src/components/*.jsx ./src/components/**/*.jsx --fix",
-    "prebuild:app": "NODE_ENV=production npm run lint && rm -rf build/",
+    "prebuild:app": "NODE_ENV=production cp .env.production .env && npm run lint && rm -rf build/",
     "build:app": "react-scripts build",
     "prebuild:lambda": "npm run prebuild:app",
     "build:lambda": "netlify-lambda build src/lambda",
