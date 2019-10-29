@@ -1,0 +1,21 @@
+{
+  "last_edited_by": "Alexander Dacy",
+  "title": "10/29 Deck",
+  "slides": [
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/news/news-umd-students-voice-concerns-to-college-park-mayoral-candidates-one-week-before-election.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/news/news-maryland-field-hockey-players-are-excelling-in-unfamiliar-positions-on-the-pitch.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/group/group-news-10-29.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/group/group-sports-10-29.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/tickers/ticker-10-29-ticker.json"
+    }
+  ]
+}
