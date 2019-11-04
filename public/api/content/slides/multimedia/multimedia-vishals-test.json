@@ -1,0 +1,16 @@
+{
+  "last_edited_by": "vishal",
+  "duration": 15000,
+  "title": "vishal's test",
+  "category": "fake category",
+  "credit": "The Diamondback",
+  "media": {
+    "alt": "captiony caption",
+    "src": "fakeurl",
+    "video": true
+  },
+  "related": {
+    "href": "aa",
+    "text": "aa"
+  }
+}
