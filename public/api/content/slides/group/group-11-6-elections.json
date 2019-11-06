@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "Daisy Grant",
+  "duration": 15000,
+  "title": "11/6 elections",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/05/college-park-mayor-patrick-wojahn-election-results-win/",
+      "text": "College Park Mayor Patrick Wojahn elected for third term"
+    },
+    "sponsored": false,
+    "author": "Angela Mecca and Jillian Atelsek",
+    "category": "News",
+    "blurb": "College Park Mayor Patrick Wojahn was reelected for a third term Tuesday night.\n\nHe received 1,532 votes,  according to the city’s Board of Election Supervisors, defeating Nikesha Pancho and Lalzarliani Malsawma. According to a recent finance report, his campaign had raised more than $14,000 — vastly more than the other two candidates.\n\n“I’m feeling great,” Wojahn told The Diamondback after the results were announced. “I’m excited.”"
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/05/college-park-district-election-city-council/",
+      "text": "All of College Park City Council’s incumbent candidates reelected"
+    },
+    "sponsored": false,
+    "author": "Rina Torchinsky, Carmen Molina Acosta, Shreeya Agarwal and Jillian Atelsek",
+    "category": "News",
+    "blurb": "All of College Park’s incumbent city council candidates were reelected Tuesday night. Here’s a rundown of what happened in each district."
+  }
+}
