@@ -1,0 +1,21 @@
+{
+  "last_edited_by": "Daisy",
+  "title": "11/6 deck",
+  "slides": [
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/group/group-11-6-elections.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/group/group-11-6-sports.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/news/news-appreciating-police-shouldn-t-be-taboo.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/news/news-review-the-charlie-s-angels-soundtrack-serves-songs-that-ll-stay-stuck-in-your-head.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/tickers/ticker-11-6-ticker.json"
+    }
+  ]
+}
