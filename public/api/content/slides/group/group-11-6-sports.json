@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "Daisy",
+  "duration": 15000,
+  "title": "11/6 sports",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/05/maryland-mens-basketball-holy-cross-game-score-recap-result-anthony-cowan/",
+      "text": "No. 7 Maryland men’s basketball opens season with 95-71 win over Holy Cross"
+    },
+    "sponsored": false,
+    "author": "Andy Kostka",
+    "category": "Sports",
+    "blurb": "No matter how this Maryland men’s basketball season ends — be it in mid-March or when the calendar flips to April — it needs to start some way. And it started Tuesday night at Xfinity Center, in front of a half-filled arena against an overpowered Holy Cross squad, with Anthony Cowan holding the ball.\n\nWhen it ends, some five or more months down the road, the Terps will hope it’s their senior guard with the ball in his hands then, too."
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/05/maryland-mens-soccer-rankings-united-soccer-coaches-poll-penn-state-michigan-northwestern/",
+      "text": "Maryland men’s soccer drops six spots to No. 23 in rankings after 0-2 week"
+    },
+    "sponsored": false,
+    "author": "Eric Myers",
+    "category": "Sports",
+    "blurb": "Coming off two losses to conclude its regular season, Maryland men’s soccer fell six spots to No. 23 in the United Soccer Coaches’ poll released Tuesday.\n\nLast week, the Terps had a chance to improve their standing in the rankings and help their seedings in the conference and NCAA tournaments, but they fell to then-No. 16 Penn State on the road. In that match, Maryland built a 2-0 first-half lead before succumbing to the Nittany Lions’ pressure, losing 3-2 in overtime."
+  }
+}
