@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "Rachel Hunt",
+  "duration": 15000,
+  "title": "Opinion 11/7",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/07/college-park-election-unruly-gathering-housing/",
+      "text": "Opinion: Want to make an impact on your community? Do more than vote."
+    },
+    "sponsored": false,
+    "author": "Sonja Neve",
+    "category": "Opinion",
+    "blurb": "Missing the election doesn’t have to be the end of their potential for activism. Students can take action on issues throughout the year — not just during election season. \n\nFeelings of discontent are especially prescient now, as recent decisions by the College Park City Council have shown a disconnect between decision makers and students."
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/07/abuse-academics-power-structure-institutions-umd/",
+      "text": "Opinion: Institutions enable the abuse of students"
+    },
+    "sponsored": false,
+    "author": "Hadron Chaudhary",
+    "category": "Opinion",
+    "blurb": "Mandatory reporting policies are designed to stop professors and other authority figures from ignoring misconduct. \n\nYet that rarely happens — academia fails to give students adequate ways to respond to abuse by professionals in their field."
+  }
+}
