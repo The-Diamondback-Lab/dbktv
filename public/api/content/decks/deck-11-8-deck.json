@@ -4,6 +4,9 @@
   "slides": [
     {
       "slide": "https://dbktv.netlify.com/api/content/slides/news/news-umd-students-staff-have-reported-11-hate-bias-incidents-so-far-this-semester.json"
+    },
+    {
+      "slide": "https://dbktv.netlify.com/api/content/slides/group/group-11-8-sports.json"
     }
   ]
 }
