@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "Camryn DeLuca",
+  "duration": 15000,
+  "title": "11/8 sports",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/08/maryland-volleyball-road-away-ohio-state-wisconsin-minnesota-adam-hughes/",
+      "text": "After struggling on the road last week, Maryland volleyball looks to get back on track"
+    },
+    "sponsored": false,
+    "author": "Kevin F. Mcnulty",
+    "category": "Sports, Volleyball",
+    "blurb": "With two away matches last week scheduled just days apart, the Maryland volleyball team hardly had time to figure out what went wrong.\n\nFour flights in five days took the Terps to and from Wisconsin, for a bout with the Badgers and then to and from Ohio to take on the Buckeyes. And Maryland dropped both meetings in straight sets, with just one day in the gym in between matches."
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/08/maryland-field-hockey-kyler-greenwalt-injury-acl-missy-meharg-big-ten-tournament/",
+      "text": "Hampered by injury, Kyler Greenwalt has still been a key cog for Maryland field hockey"
+    },
+    "sponsored": false,
+    "author": "David Suggs",
+    "category": "Sports, Field Hockey",
+    "blurb": "A year ago, Maryland field hockey forward Kyler Greenwalt hobbled around the Field Hockey and Lacrosse Complex sideline, her usual practice accessories of gloves and a stick replaced with a bulky knee brace.\n\nThen a sophomore, Greenwalt tore her ACL a couple weeks earlier in the Terps’ 3-1 defeat to Virginia on Oct. 21. She yearned to return to the field that she had started on for much of her first two seasons in College Park."
+  }
+}
